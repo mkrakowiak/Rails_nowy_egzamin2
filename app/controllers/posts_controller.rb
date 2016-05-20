@@ -2,7 +2,7 @@ class PostsController < ApplicationController
    #before_action :authenticate_user!, except: [:index, :show]
 
 	def index
-		#@posts = Post.all.order('created_at DESC')
+		@posts = Post.all.order('created_at DESC')
 	end
 
 	def new
@@ -20,7 +20,7 @@ class PostsController < ApplicationController
 	#		redirect_to @post
 	##	else
 	#		render 'new'
-		end
+#	end
 	end
 
 	def edit
@@ -50,3 +50,4 @@ class PostsController < ApplicationController
 	#	params.require(:post).permit(:title, :body)
 #	end
 
+end
