@@ -14,7 +14,10 @@
  - Michał Krakowiak:
    - 
  - Adrian Okoń:
-   - 
+   - odpowiedzialność za wygląd strony(styl CSS)
+   - dodanie loga aplikacji
+   - utworzenie walidacji danych
+   - utworzenie struktury layoutów oraz przycisków
  - Piotr Żerański:
    - 
    
