@@ -12,11 +12,11 @@
     - odpowiedzialność za widok i strukturę komentarzy
     - stworzenie modeli i kontroleri komentarzy
  - Michał Krakowiak:
-   - stworzenie CRUD dla postów
-   - stworzenie schematu strony
-   - zarządzanie projektem
-   - stworzenie strony głównej
-   - stworzenie modeli i kontroleri postów
+    - stworzenie CRUD dla postów
+    - stworzenie schematu strony
+    - zarządzanie projektem
+    - stworzenie strony głównej
+    - stworzenie modeli i kontroleri postów
  - Adrian Okoń:
     - odpowiedzialność za wygląd strony(styl CSS)
     - dodanie loga aplikacji
