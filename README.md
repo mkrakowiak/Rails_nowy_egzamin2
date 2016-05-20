@@ -1,24 +1,29 @@
+### Projekt zespołowy BLOG
+1. Nazwa zespołu: Kudłaci
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+2. Opis Projektu:
+    Blog umożliwiający wstawianie wpisów głównego administratora, oraz dodawania komentarzy przez pozostałych uzytkowników. Operacje na komentarzach oraz postach może wykonywać jedynie administrator.
 
+3. Skład zespołu oraz wykonane zadania:
+ - Łukasz Dąbrowski: 
+   - utworzenie możliwości dodawania komentarzy
+   - dodanie możliwości edytowania strony
+   - relacyjne połączenie komentarzy i postów
+   - odpowiedzialność za widok i strukturę komentarzy
+   - drobne zmiany wizualne
+ - Michał Krakowiak:
+   - 
+ - Adrian Okoń:
+   - 
+ - Piotr Żerański:
+   - 
+   
+4. Dane do logowanin:
+    login: admin@admin.com
+    hasło: 1q2w3e4r
 
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://egzamin-krakmis.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+5. Informacje:
+ 
+|Wersja Ruby|Wersja Rails|Baza danych|
+|---|---|---|
+|2.3.0p0|5.0.0.beta3|PostgreSQL|
