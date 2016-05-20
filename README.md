@@ -6,21 +6,24 @@
 
 3. Skład zespołu oraz wykonane zadania:
  - Łukasz Dąbrowski: 
-   - utworzenie możliwości dodawania komentarzy
-   - dodanie możliwości edytowania strony
-   - relacyjne połączenie komentarzy i postów
-   - odpowiedzialność za widok i strukturę komentarzy
-   - drobne zmiany wizualne
+ - utworzenie możliwości dodawania komentarzy
+    - dodanie możliwości edytowania strony
+    - relacyjne połączenie komentarzy i postów
+    - odpowiedzialność za widok i strukturę komentarzy
+    - drobne zmiany wizualne
  - Michał Krakowiak:
    - 
  - Adrian Okoń:
-   - odpowiedzialność za wygląd strony(styl CSS)
-   - dodanie loga aplikacji
-   - utworzenie walidacji danych
-   - utworzenie struktury layoutów oraz przycisków
+ - odpowiedzialność za wygląd strony(styl CSS)
+    - dodanie loga aplikacji
+    - utworzenie walidacji danych
+    - utworzenie struktury layoutów oraz przycisków
  - Piotr Żerański:
-   - 
-   
+ - utworzenie możliwości logowania
+    - ukrycie opcji przy nie zalogowanym użytkowniku
+    - wygenerowano możliwość dodania użytkwników
+    - naprawa błędów związanych z logowaniem
+
 4. Dane do logowanin:
     login: admin@admin.com
     hasło: 1q2w3e4r
